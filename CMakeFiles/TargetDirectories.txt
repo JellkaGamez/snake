@@ -1,0 +1,3 @@
+D:/001_Games/C++ stuff/starterProjects/number game/CMakeFiles/hello.dir
+D:/001_Games/C++ stuff/starterProjects/number game/CMakeFiles/ALL_BUILD.dir
+D:/001_Games/C++ stuff/starterProjects/number game/CMakeFiles/ZERO_CHECK.dir
